@@ -1,0 +1,4 @@
+github.com/handrixn/gohellopackage v1.0.1 h1:5Zdf40GwUtq9sC7xtx7lSbWaZscdjjBD5EAqalIRc18=
+github.com/handrixn/gohellopackage v1.0.1/go.mod h1:+TEiFSMnNgGWnFEAWecFaCdRwHYr2fToRz2tXKwr2MA=
+github.com/handrixn/gohellopackage/v2 v2.0.0 h1:j3YTFjghHkCox2K1/eYNqpyLXUjWfYhGTdlM2UD6p4A=
+github.com/handrixn/gohellopackage/v2 v2.0.0/go.mod h1:oxGegYxfclI+OnWskXmxe5wmZxlEWTMxLWY948sJ6nY=
